@@ -1,1 +1,1 @@
-# techdegree 1
+# Tech degree 1
